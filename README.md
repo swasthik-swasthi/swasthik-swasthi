@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Swasthik 👋
 
-<!--
-**swasthik-swasthi/swasthik-swasthi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Unity Game Developer
 
-Here are some ideas to get you started:
+🏢 Founder of SSONICGAMES
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 C# Programmer
+
+## Projects
+
+- SkillVerse
+- ColorFlux Puzzle
+- Cricket Card Rush
+
+## Skills
+
+- Unity
+- C#
+- GitHub
+- Mobile Game Development
+- UI Design
